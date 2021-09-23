@@ -1,2 +1,2 @@
 # weather-app
-Vanila js weather app
+Vanilla js weather app
